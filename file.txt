@@ -1,0 +1,5 @@
+README.md
+file.txt
+main.py
+my_venv/
+requirements.txt
